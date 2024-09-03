@@ -1,0 +1,10 @@
+absl-py==1.1.0
+matplotlib==3.5.2
+numpy==1.21.2 \
+opencv-python-headless==4.7.0.72
+pandas==1.4.2
+pillow==8.3.2
+scikit-learn==1.1.1
+scipy==1.10.0
+tensorflow==2.10.0
+tensorflow-addons==0.18.0
